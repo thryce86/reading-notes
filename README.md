@@ -1,5 +1,5 @@
 # Growth Mindset
-## v1
+## V1
 What the growth mindse means to ** _me_ **.
 ---
 Basically, it means not being a jerk and wanting what is good for everyone.
