@@ -1,5 +1,7 @@
 # Intro 
 Hi this is a random intro
 
+# <!--- Dont use full path for some reason  just relative  -->
 # Table of contents
-- [Lesson 2: Readme](/home/thryce85/projects/reading-notes/README.md)
+- [Lesson 2: Readme](README.md)
+- [Lesson 2: Backup](readme_backup.md)
