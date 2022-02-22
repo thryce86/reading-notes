@@ -14,4 +14,5 @@ How to keep a growth mindset
 
 
 Link:
-	[title](https://www.example.com)
+	[My site](https://thryce86.github.io/reading-notes/)
+![alt text](https://kidssearch.com/picsearch/images/kitty-pic-1280x1024-90e7225.png)
