@@ -1,0 +1,4 @@
+- wireframing= define and plan the information hierarchy of their design for a website, app, or product
+- Hand drawn blueprint
+- Dont worry about colors let the designer worry about that.  Deal with how the information is organized.
+- Get help ask people what they think 
